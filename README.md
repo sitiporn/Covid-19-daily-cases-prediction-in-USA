@@ -13,3 +13,7 @@
 1. include more features used to predict 
 
 ![image](https://user-images.githubusercontent.com/31414731/167449302-7f7f3efc-f914-4a94-9937-8e66df9beb90.png)
+
+
+![image](https://user-images.githubusercontent.com/31414731/167451991-3bf40d28-bd53-4157-9382-67cac3d006d6.png)
+
